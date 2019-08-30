@@ -1,0 +1,12 @@
+table: setting_groups
+records:
+
+  - id: d94ca13e-22cd-481f-a268-cd84b5e80cfe
+    name: Global
+    description: |
+      Basic settings that affect all areas of Response are managed here.
+
+  - id: 2e01d8e0-a93e-4764-8b6c-1027d7f86ff1
+    name: Logical
+    description: |
+      Settings that affect overall logic that Response will follow.

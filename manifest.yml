@@ -1,0 +1,8 @@
+response:
+  version: 0
+
+meta:
+  name: Core
+  description: |
+    Adds default setting groups, settings, roles, permissions, and other
+    records necessary for a basic functional Response.
